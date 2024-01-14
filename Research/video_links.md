@@ -6,3 +6,5 @@
 [2 Retro Clocks with an ESP32 (Couldn't be simpler!)](https://www.youtube.com/watch?v=vugulzS0EoU)
 [The WaveShare 11.9" HDMI Touch Monitor Is Perfect For Cool DIY Projects! Pi4, WIndows](https://www.youtube.com/watch?v=mACXnrMqhFM)
 [This is A Great 7 Inch IPS Touchscreen For The Raspberry Pi 4](https://www.youtube.com/watch?v=OSN4XabOAOM)
+[PyGame Beginner Tutorial in Python - Sprite Animation](https://www.youtube.com/watch?v=OSN4XabOAOM)
+[Python / Pygame Tutorial: Animations with sprites](https://www.youtube.com/watch?v=OSN4XabOAOM)
