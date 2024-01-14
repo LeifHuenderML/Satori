@@ -1,4 +1,4 @@
-<img src="docs/images/Satori_Logo.png" alt="Satori Logo" width="200">
+<img src="Docs/images/Satori_Logo.png" alt="Satori Logo" width="200">
 # Satori: The Go-Playing Robot
 
 Welcome to the official repository for **Satori**, the physical embodiment of the AI "Kitsune". Satori is not just a robot; it's a culmination of advanced technology and creative engineering, designed to play the ancient and intellectually demanding game of Go on a standard 19 x 19 game board.
