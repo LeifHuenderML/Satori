@@ -1,1 +1,8 @@
 [Giving Robots Expressions](https://www.youtube.com/watch?v=AFScYQp4vwE)
+[Oled Eyes Tutorial](https://www.youtube.com/watch?v=rb1CdDpUVDA)
+[Cheap Animated Eye effect using PiPico and OLED with Micropython](https://www.youtube.com/watch?v=h0Yw4KmnUls)
+[Raspberry Pi Pico Animations on OLED displays using CircuitPython](https://www.youtube.com/watch?v=WqyBWcjs_oY)
+[The secrets to good Pixel Art animation! (Animation tutorial)](https://www.youtube.com/watch?v=J1sFBDQt8J0)
+[2 Retro Clocks with an ESP32 (Couldn't be simpler!)](https://www.youtube.com/watch?v=vugulzS0EoU)
+[The WaveShare 11.9" HDMI Touch Monitor Is Perfect For Cool DIY Projects! Pi4, WIndows](https://www.youtube.com/watch?v=mACXnrMqhFM)
+[This is A Great 7 Inch IPS Touchscreen For The Raspberry Pi 4](https://www.youtube.com/watch?v=OSN4XabOAOM)
